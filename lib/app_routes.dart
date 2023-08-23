@@ -3,7 +3,7 @@ import 'package:go_router/go_router.dart';
 import 'package:route_example/auth_service.dart';
 import 'package:route_example/dashboard.dart';
 import 'package:route_example/detail_view.dart';
-import 'package:route_example/main.dart';
+import 'package:route_example/login_view.dart';
 
 class AppRoutes {
   static const loginRoute = "/";
